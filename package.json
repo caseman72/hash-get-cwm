@@ -1,0 +1,46 @@
+{
+  "name": "hash-get-cwm",
+  "description": "Hash get for Node.js",
+  "version": "0.0.2",
+  "keywords": [
+    "hash",
+    "get",
+    "hash-get",
+    "hash-get-cwm"
+  ],
+  "author": {
+    "name": "Casey Manion",
+    "email": "casey@manion.com",
+    "url": "http://manion.org/"
+  },
+  "homepage": "http://github.com/caseman72/hash-get-cwm/",
+  "contributors": [
+    {
+      "name": "Casey Manion",
+      "email": "casey@manion.com",
+      "url": "http://manion.org/"
+    }
+  ],
+  "license": [
+    "PDU"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/caseman72/hash-get-cwm.git"
+  },
+  "bugs": {
+    "url": "http://github.com/caseman72/hash-get-cwm/issues"
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "dependencies": {
+    "string-utils-cwm": "~0.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "engines": {
+    "node": ">0.4.0"
+  },
+  "main": "./lib/hash-get-cwm"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "hash-get-cwm",
+  "version": "0.0.2",
+  "main": "lib/hash-get-cwm.min.js",
+  "ignore": [
+    "package.json",
+    ".gitignore",
+    "test"
+  ]
+}
